@@ -7,7 +7,7 @@ function App() {
   return (
     <>
       <div className='main-wrapper'>
-        {/* <Clock /> */}
+        <Clock /> 
         <BmiCalculator />
       </div>
     </>
